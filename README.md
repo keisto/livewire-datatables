@@ -10,4 +10,4 @@ This app was built to test out [Laravel](https://laravel.com) using [Livewire](h
     php artisan scout:import "App\Models\User" 
 ```
 
-![Screenshot](https://github.com/keisto/livewire-datatables/public/images/static/screenshot.png?raw=true)
+![Screenshot](public/images/static/screenshot.png?raw=true)
